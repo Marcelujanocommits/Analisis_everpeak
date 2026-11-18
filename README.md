@@ -34,4 +34,4 @@ O:
 - Identificar problemas de calidad de datos
 - Construir un pipeline de limpieza reproducible
 - Analizar comportamientos, distribuciones
-- General análisis claro para visualizar donde se debería de invertir en estructura para mejorare trafico
+- Generar un análisis claro para visualizar donde se debería de invertir en estructura para mejorare trafico
